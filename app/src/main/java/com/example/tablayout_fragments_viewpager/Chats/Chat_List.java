@@ -1,8 +1,5 @@
 package com.example.tablayout_fragments_viewpager.Chats;
 
-import android.content.Context;
-import android.widget.LinearLayout;
-
 import com.example.tablayout_fragments_viewpager.R;
 
 public class Chat_List
